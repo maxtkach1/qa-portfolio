@@ -10,7 +10,7 @@ Equivalence Partitioning и Boundary Value Analysis (поля "возраст", 
 Decision Table Testing (правило скидки от суммы корзины и промокода)
 State Transition Testing (переходы статуса заявки в поддержку)
 
-bug-reports/ — реальные баги, найденные на saucedemo.com (аккаунт problem_user):
+bug-reports/ — реальные баги, найденные на saucedemo.com:
 
 Отсутствующая кнопка оформления заказа
 Смещённая иконка корзины
